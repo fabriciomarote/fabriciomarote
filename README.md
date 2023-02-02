@@ -1,4 +1,4 @@
-<h1 align="Center">  Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> Soy Fabricio <img src="https://giphy.com/embed/MGdfeiKtEiEPS" width="60"height="40px"></h1>
+<h1 align="Center">  Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> Soy Fabricio <img src="https://media0.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif?cid=ecf05e475p4lqyt8z2z6zfua1tcnjzzgubjncswiz4ejhncg&rid=giphy.gif&ct=s" width="60"height="40px"></h1>
 
 -  Tengo 29 años y soy de Platanos, Buenos Aires, Argentina.
 -  Soy estudiante avanzado en la Tecnicatura en Programación Informática en la [Universidad Nacional de Quilmes](http://www.unq.edu.ar/).
