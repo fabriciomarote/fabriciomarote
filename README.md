@@ -1,6 +1,4 @@
-<h1 align="Center">  Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> Soy Fabricio <img src="https://giphy.com/embed/5aYfJYohCSeYgtVlUj" width="40"height="40px"></h1>
-
-src="https://media0.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif?cid=ecf05e475p4lqyt8z2z6zfua1tcnjzzgubjncswiz4ejhncg&rid=giphy.gif&ct=s"
+<h1 align="Center">  Hola, Soy Fabricio <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"/></h1>
 
 <iframe src="https://giphy.com/embed/5aYfJYohCSeYgtVlUj" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/typing-hacking-webs-5aYfJYohCSeYgtVlUj">via GIPHY</a></p>x
 
