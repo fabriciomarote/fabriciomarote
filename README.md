@@ -15,7 +15,7 @@ Número de visitantes:
 
 - <h3>👀 Frontend:</h3>
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/58083159/154823721-b99c9ecf-9dc2-4f21-a95f-a0ba2ee994f2.png" alt="react" width="60"> | [<img src="[https://user-images.githubusercontent.com/58083159/158458074-9f1066f1-45f5-4e2b-9821-ecf363293d6f.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AJavaScript-logo.png&psig=AOvVaw194-PTufw_gdgVcxPLjkUv&ust=1675392638926000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDViYvq9fwCFQAAAAAdAAAAABAE)" alt="chakra ui" width="60">] | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60">
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/58083159/154823721-b99c9ecf-9dc2-4f21-a95f-a0ba2ee994f2.png" alt="react" width="60"> | <img src="[https://user-images.githubusercontent.com/58083159/158458074-9f1066f1-45f5-4e2b-9821-ecf363293d6f.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AJavaScript-logo.png&psig=AOvVaw194-PTufw_gdgVcxPLjkUv&ust=1675392638926000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDViYvq9fwCFQAAAAAdAAAAABAE)" alt="chakra ui" width="60"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60">
 |
 
 - <h3>⚙️ Backend:</h3>
@@ -35,7 +35,7 @@ Número de visitantes:
 
 - <h3>🛠️ Otras herramientas:</h3>
 
-| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/) | [<img src="https://user-images.githubusercontent.com/58083159/158461958-394d5b81-72e1-4cae-8c1e-53f355451030.png" alt="npm" width="60">](https://www.npmjs.com/) | [<img src="https://user-images.githubusercontent.com/58083159/144488538-a7102b87-8e75-4062-bff9-fd464aa24dbc.png" alt="uml" width="60">](https://en.wikipedia.org/wiki/Unified_Modeling_Language) | [<img src="https://user-images.githubusercontent.com/58083159/158458696-bbba3311-5c42-46a4-a4f8-4af3f4e6bcbe.svg" alt="trello" width="60" height="60">](https://trello.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60">](https://www.photoshop.com/en)
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/58083159/158461958-394d5b81-72e1-4cae-8c1e-53f355451030.png" alt="npm" width="60"> | <img src="https://user-images.githubusercontent.com/58083159/144488538-a7102b87-8e75-4062-bff9-fd464aa24dbc.png" alt="uml" width="60"> | [<img src="https://user-images.githubusercontent.com/58083159/158458696-bbba3311-5c42-46a4-a4f8-4af3f4e6bcbe.svg" alt="trello" width="60" height="60">](https://trello.com/) |
 |---|---|---|---|---|
 
 ## 📊 Stats:
