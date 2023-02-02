@@ -1,7 +1,5 @@
 <h1 align="Center">  Hola, Soy Fabricio <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"/></h1>
 
-<iframe src="https://giphy.com/embed/5aYfJYohCSeYgtVlUj" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/typing-hacking-webs-5aYfJYohCSeYgtVlUj">via GIPHY</a></p>x
-
 -  Tengo 29 años y soy de Platanos, Buenos Aires, Argentina.
 -  Soy estudiante avanzado en la Tecnicatura en Programación Informática en la [Universidad Nacional de Quilmes](http://www.unq.edu.ar/).
 -  Podes ver mi [Portafolio](https://fabricio-marote.vercel.app) para poder saber mas sobre mi y mis proyectos realizados.
